@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.app.retailerdost.twa",
+        "sha256_cert_fingerprints": ["C6:0C:58:9C:B9:FF:ED:9C:13:4F:20:A3:60:93:58:21:1A:35:0E:21:36:6E:3A:3C:87:5C:5F:6C:9A:BA:F3:55"]
+      }
+    }]
